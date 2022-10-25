@@ -6,6 +6,7 @@ import java.sql.SQLException;
 
 import static com.sbercource.saakian.java11springprofilean.database.DBConstants.*;
 
+
 public enum DbApp {
     INSTANCE;
 
